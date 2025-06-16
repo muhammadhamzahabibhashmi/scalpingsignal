@@ -23,7 +23,7 @@ docker build -t btc-scalping-app .
 docker run -p 8501:8501 btc-scalping-app
 ```
 
-### ▶️ Directly FromFiles
+### ▶️ Directly From Files
 
 ```bash
 pip install -r requirements.txt

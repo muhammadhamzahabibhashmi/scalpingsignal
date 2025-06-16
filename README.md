@@ -1,4 +1,3 @@
-![overbought](https://github.com/user-attachments/assets/74dc04ab-2c27-4d6e-aea0-b2ecf83415be)
 # 📈 BTC 1H RSI Scalping Bot (Streamlit App)
 
 A simple Streamlit application that visualizes the RSI (Relative Strength Index) for BTC/USDT on the 1-hour timeframe and provides basic scalping signals (Buy, Sell, Hold) using CCXT and technical indicators.
@@ -33,3 +32,17 @@ streamlit run main.py
 Then open your browser and go to:
 http://localhost:8501
 ```
+
+💬 License
+MIT License 
+---
+
+Let me know if you want to:
+- Include screenshots
+- Add GIFs of the app
+- Include automatic refresh or trade execution logs in the README
+
+
+
+![overbought](https://github.com/user-attachments/assets/74dc04ab-2c27-4d6e-aea0-b2ecf83415be)
+
